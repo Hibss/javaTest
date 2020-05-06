@@ -16,8 +16,8 @@ public class BinarySearch {
             list.add(i);
         }
         System.out.println(Math.log(8.0));
-        binarySearch(list,49,1);
-        binarySearch(list,11111,1);
+        System.out.println(binarySearch(list,49,1));
+        System.out.println(binarySearch(list,11111,1));
     }
 
     private static Integer binarySearch(List<Integer> list, int res, int count) {

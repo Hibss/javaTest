@@ -19,18 +19,18 @@ import java.util.concurrent.TimeUnit;
  */
 public class LocalDateTest {
     public static void main(String[] args) {
-        test1();
-        test2();
-        test3();
-        test4();
-        test5();
-        test6();
-        test7();
+//        test1();
+//        test2();
+//        test3();
+//        test4();
+//        test5();
+//        test6();
+//        test7();
         test8();
-        test9();
-        test10();
-        test11();
-        test12();
+//        test9();
+//        test10();
+//        test11();
+//        test12();
     }
 
     private static void test12() {
